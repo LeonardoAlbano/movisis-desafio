@@ -16,9 +16,9 @@ Siga os passos abaixo para instalar e configurar a aplicação em um ambiente lo
 📥 Clone o repositório:
 
     - git clone https://github.com/LeonardoAlbano/movisis-desafio.git
-    ou a CLI git@github.com:LeonardoAlbano/movisis-desafio.git
+    ou a CLI 
 
-    gh repo clone 
+    gh repo clone git@github.com:LeonardoAlbano/movisis-desafio.git
 
 
 📂 Navegue para o diretório do projeto:
