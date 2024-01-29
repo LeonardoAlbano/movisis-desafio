@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "name": "Turbina .70",
+    "price": 4420.99,
+    "imgUrl": "../../public/img/turbo.jpg",
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,",
+    "data":"20/05/2023"
+  },
+  {
+    "id": 2,
+    "name": "Roda Weld 17pol.",
+    "price": 3426.99,
+    "imgUrl": "../../public/img/rodas.jpg",
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,",
+    "data":"05/02/2023"
+  },
+  {
+    "id": 3,
+    "name": "Volante lotse",
+    "price": 458.99,
+    "imgUrl": "../../public/img/volante.png",
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,",
+    "data":"16/01/2023"
+  },
+  {
+    "id": 4,
+    "name": "Bancos Recaro",
+    "price": 7895.99,
+    "imgUrl": "../../public/img/Recaro.png",
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,",
+    "data":"20/05/2020"
+  },
+  {
+    "id": 5,
+    "name": "Blower",
+    "price": 10000.99,
+    "imgUrl": "../../public/img/blower.jpg",
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,",
+    "data":"16/04/2023"
+  }
+]
